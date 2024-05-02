@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385219554936",
+    "firebase_url": "https://paramotor-91471-default-rtdb.firebaseio.com",
+    "project_id": "paramotor-91471",
+    "storage_bucket": "paramotor-91471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385219554936:android:9bc5433c92798e5e71c78d",
+        "android_client_info": {
+          "package_name": "com.example.paramotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385219554936-iuchhhclv3rrk5fic31r9c6kl0qqtjr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HHGlI7PYNM_i0PodQXfUflwYVrDKAyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385219554936-iuchhhclv3rrk5fic31r9c6kl0qqtjr6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385219554936-cq38nqq872qsjg1gg8gdeqrmpufivjph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paramotor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
