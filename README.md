@@ -1,12 +1,12 @@
 
 
-| Member # | Name | NSID |
-| --- | ----------- | ----- | 
-| 1 | Alex Chen | alc292 |
-| 2 | Brix Marcellana | bem346 |
-| 3 | Vu Nguyen | vun786|
-| 4 | Jesse Aguirre | jaa369 |
-| 5 | Showvik Mazumdar | shm959 |
+| Member | Name 
+| --- | ----------
+| 1 | Alex Chen 
+| 2 | Brix Marcellana
+| 3 | Vu Nguyen 
+| 4 | Jesse Aguirre 
+| 5 | Showvik Mazumdar
 
 
 ## Product Description
